@@ -1,5 +1,7 @@
 # Microsoft Azure Documentation
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/dfb94a21-bf24-4114-8dc2-96e3f57c371a.svg?orgId=544861397342)](https://app.soluble.cloud/repos/details/github.com/droessmj/azure-docs?orgId=544861397342)  
+
 Welcome to the open-source [documentation](https://docs.microsoft.com/azure) of [Microsoft Azure](https://azure.microsoft.com). Please review this README file to understand how you can assist in contributing to the Microsoft Azure documentation.
 
 ## Getting Started
